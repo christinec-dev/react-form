@@ -1,7 +1,9 @@
 # React Form
 A simple reusable form component made with React, React Hooks, and React Context.
 
-## Main Ui
+This was done as part of practice to make reusable React components, so mind the "ugly" UI, as the focus was not on the styling (CSS), but the Javascript.
+
+## Main UI
 ![Screenshot 2022-02-08 101652](https://user-images.githubusercontent.com/87696858/152946166-e1fa6a04-bbe4-4f37-8feb-d1460c2774a3.png)
 
 

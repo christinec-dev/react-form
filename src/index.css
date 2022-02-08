@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0 auto !important;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;
+}
+
+body {
+  min-height: 100% !important;
+  margin: 0 auto !important;
+  background-color: #3227c4 !important;
+}
+
+h2 {
+  letter-spacing: -1px !important;padding: .5em;
+  text-align: center;
+  font-size: 3em !important;
+  margin-top: 1em !important;  
+  margin-bottom: .5em !important;
+}
+
+.log-in, .sign-up {
+  margin: 0px auto;
+  width: 100%;
+  max-width: 448px;
+  background: white;
+  border-radius: 4px;
+  margin-bottom: 4em !important;
+  box-shadow: rgba(60, 66, 87, 0.12) 0px 7px 14px 0px, rgba(0, 0, 0, 0.12) 0px 3px 6px 0px;
+}
+
+.FormInput {
+  padding: .6em;
+}
+
+label {
+  padding-right: 1em;
+  font-weight: 600 !important;
+}
+
+.btn {
+  background-color: #3227c4 !important;
+  color: white !important;
+  font-weight: 700 !important;
+  margin-top: .7em !important;
+  margin: 1em !important;
+
+}
